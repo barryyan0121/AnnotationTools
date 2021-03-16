@@ -16,7 +16,6 @@ class AnnotatorGui(Frame):
         self.master.columnconfigure(0, weight=1)
         self.grid(sticky=W + E + N + S)
 
-        # refactor
         for line_index in table_content:
             self.build_line(table_content, line_index)
 
