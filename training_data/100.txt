@@ -1,0 +1,50 @@
+
+ JIAYI (ELAINE) LI 
+ (434) 282-9988 | jl8bs@virginia.edu 
+ Address: 2101 Jefferson Park Ave. Apt B, VA 22903 
+ EDUCATION 
+ University of Virginia, McIntire School of Commerce, Charlottesville, VA May 2021 
+ Candidate for Bachelor of Science in Commerce, intended concentrations in Finance and IT 
+ Second Major in Statistics 
+ Current Cumulative GPA: 3.84/4.00 
+ Honors: Intermediate Honors, Thomas I. Storrs Scholarship, VCC Internal Case Competition First Prize, Dean's List 
+ Relevant Coursework: Mathematical Statistics, Statistical Machine Learning, Project Management, Database Management, 
+ Intermediate Accounting, Intermediate Investments, Corporate Finance, Quantitative Finance, Strategic Value Creation, Econometrics 
+
+ WORK EXPERIENCE 
+ Manning & Napier Advisors, LLC Rochester, NY (virtual) 
+ Equity Research Summer Analyst June 2020 - August 2020 
+   Wrote a 3,000-word research paper on the U.S. market crash in the 1970s with a specific focus on high valuation and inflation   using Bloomberg, FactSet, and Tableau. Presented project results to the core team and the investment committee. 
+   Conducted value proposition analysis, market position analysis, comparable company analysis, and due diligence on an   e-commerce company with Excel, sell-side reports, and conference call recordings, and delivered results to the core team. 
+   Assisted Quantitative Strategy Group with managing two major portfolios (Disciplined Value and Managed ETF) by assessing   investment potentials, examining current holdings, and investigating risks from economy and market. 
+ Whaley Capital Group, LLC Charlottesville, VA 
+ Investment Summer Analyst May 2019 - August 2019 
+   Contributed to the firm's macroeconomic investment strategy by independently implementing a valid market timing trigger   model with five indicators to determine the best time to buy assets across all markets through Python programming. 
+   Tracked global market trends in high-yield and leveraged loan asset classes, identified three valid insights weekly, and presented   to the supervisor for inclusion in twice-weekly global research reports open to the public. 
+ China Galaxy Securities Co., LTD Beijing, China 
+ Industry Research Summer Analyst May 2018 - July 2018 
+   Compiled information and provided preliminary analysis on the TMT sector's market development and competitive landscape to   support company's professional advisory & research services. 
+   Evaluated investment recommendations of Chinese companies H. Brothers and Perfect World Games and built financial models   to calculate IRRs of companies' respective new projects. Attained approval of possible buying opportunity from Vice President. 
+   Prepared offering materials for client meetings and developed meeting minutes of three companies' earnings conference calls. 
+
+ LEADERSHIP EXPERIENCE 
+ Smart Women Securities, UVa Healthcare Senior Research Analyst September 2017 - December 2019 
+   Led team members in a ten-week training to build up understanding of value investing and stock pitch including topics such as   financial assets, capital structure, liquidity, economic moats, risk, current events, and qualitative industry analysis. 
+   Won the first place of stock pitch competition by recommending value stock Teladoc Health to the Investment Board, based on   multiples analysis, DCF model, precedent transactions, and qualitative market analysis. 
+ Sigma Psi Zeta Sorority, Inc., UVa Treasurer & Fundraiser December 2019 - Present 
+   Coordinate with 19 chairs to generate budgets for various events and organize three fundraising nights. 
+   Maintain $5,000 balance through careful planning and help individuals work out payment plan for mandatory dues. 
+ Recruitment Chair September 2018 - July 2019 
+   Cooperated with co-chair to organize six consecutive recruitment nights under categories of educational, cultural, community   service, informational, and general interest meeting. 
+   Publicized the sorority to over five hundred students through social media, flyer, newsletter, and fun events. 
+ Chinese Student Scholar Society, UVa Event-Planning Chair October 2017 - March 2019 
+   Led club members to plan several activities to enrich students' life, including Students' Singing Competition, Celebration of 
+ Lantern Festival, and Chinese Language Corner. 
+   Raised over $1,000 for China Forum by reaching out to sponsors and applying for University funding. 
+
+ SKILLS, ACTIVITIES & INTERESTS 
+ Languages: Fluent in Mandarin and English 
+ Technical Skills: Proficient in Capital IQ, Bloomberg, Python, Excel, PowerPoint, VBA, Microsoft Word, Java, C++, and R 
+ Other Activities: Statistics Lab Teaching Assistant, LingXi Chinese Theater, Virginia Case Club 
+ Interests: Drama, Piano, Editing Videos, Tutoring, Traveling, Cooking (Chinese Dietary Therapy), Event-Hosting 
+

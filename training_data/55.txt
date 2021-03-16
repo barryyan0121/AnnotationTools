@@ -1,0 +1,51 @@
+
+
+ Ashu Choudhary 
+ 30 River Court, Apt 715, Jersey City, NJ 07310   (347) 458-2499   ashuritolia@gmail.com   www.linkedin.com/in/ashuchoudhary 
+ EDUCATION 
+ Baruch College, Zicklin School of Business New York, NY 
+ Master of Science in Finance, GPA: 3.93 06/20 
+ Relevant Courses: Debt Market, Investment Analysis, Corporate Finance, Econometrics, M&A, Enterprise Fintech, Market Risk 
+   Honors: Beta Gamma Sigma, a business honor society 
+ University of Pune Pune, India 
+ Master's in Communication Studies in Media Research, GPA: 3.50 04/11 
+ Bachelor of Commerce, GPA: 3.60 05/09 
+ Relevant Courses: Financial Accounting, Business Economics, Marketing, Banking and Finance, Auditing and Taxation 
+ ACADEMIC PROJECTS 
+ Equity Research and Valuation - Target Corporation (Ticker: TGT) 
+   Created an Excel based valuation model to conduct in depth analysis of financial and operating results, by reviewing annual   and quarterly filings, earnings call and corporate presentations 
+   Performed research on economic, industry, and market trends impacting the US retail industry 
+   Recommended a Buy rating as computed TGT fair value to be $128 per share as of November 18, 2019 using DCF analysis. 
+ TGT share price was $111 and increased to $127 on November 20, post Q3 2019 earnings, resulting in 14% gain 
+ Square Inc Acquires OnDeck Capital Inc (potential M&A) 
+   Analyzed digital SMB lending industry; value creation for FinTech firms in this industry is through quicker and accurate loan   processing. Being sensitive to the SMB sector diversified players like Square have higher survivability. 
+   Constructed financial model valuing Square, OnDeck and the resulting firm. Through a 50-50 stock-cash merger and 50%   premium, Square can realize synergies of close to $2 billion and can create value by being a one-stop shop for SMEs. 
+
+ Fixed Income Portfolio 
+   Created and proactively monitored a $200 million fixed income portfolio on Bloomberg, with a return of 10.97% 
+   Determined successful investment strategies and researched various markets; drafted report every two weeks 
+ EXPERIENCE 
+ United Nations | New York, NY | Finance and Budget Intern 06/19 - 11/19 
+   Liaised with 30 entities globally across the UN to implement budget reform plan from two-years to one-year budget cycle 
+   Prepared budget reports and program plans for UN regular budget and extrabudgetary of $61.6 millions 
+   Tested new version of enhanced SAP platform to ensure that the application met the defined functional requirements 
+   Performed sensitivity and risk analysis; generated financial information using Umoja (ERP system) 
+   Monitored the implementation of UN budgets and identified variances between approved and actual expenditures 
+
+ Shree Ananya Agencies | Patna, India | Operations Manager 02/13 - 11/15 
+ Electronics retailer with annual revenue of $500k 
+   Integrated sales and finance departments and streamlined business procedures that reduced working capital cycle 
+   Introduced TALLY accounting software which facilitated updating billing and purchases 
+   Completed all purchase orders & customer invoices; fulfilled customer needs 
+   Leveraged excellent customer service to increase customer loyalty and return business 
+
+ GeometricPLM by HCL Technologies | Pune, India | Management Associate, Corporate Communications 07/11 - 01/13 
+   Collaborated with IR team to obtain data and provide logistical support for earnings preparation process 
+   Drafted investor presentation and Q&A for C-level; preformed in-depth company financial and business chain analysis 
+   Developed and sustained metrics (on Excel) for monitoring and continuous improvement of communications program 
+   Proactively pitched to media for publicity opportunities to highlight key company initiatives 
+   Recipient of the 'Rapid Recognition Award' for showing excellent performance in media engagements 
+ TECHNOLOGY AND LANGUAGE SKILLS 
+ Computer: MS Excel (Pivot Table, VLOOKUP), Financial Modelling, Python (basic), Bloomberg Terminal, FactSet 
+ Languages: Fluent in English and Hindi 
+

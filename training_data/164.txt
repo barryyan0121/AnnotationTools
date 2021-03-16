@@ -1,0 +1,53 @@
+
+ PHILIP KUNG 
+ pkung67@utexas.edu   Github.com/philipk19238   Linkedin.com/in/PhilipKung   philipk19238.github.io 
+ EDUCATION 
+ The University of Texas at Austin Major in Quantitative Finance, Minor in Computer Science 
+
+ May 2022 
+ EXPERIENCE 
+ SaveDay - Software Engineering Intern; Austin, TX September 2019 - Present 
+   Reduced average trading latency times by 90x through migrating rebalancing algorithm to Pandas 
+   Decreased data processing operations by 10x using vectorization functions to optimize data pipeline 
+   Coded and deployed a Selenium bot that validated the company's production website 
+   Eliminated 480 annual man-hours of IT labor by creating scripts that automated back office functions 
+   Improved speed & accuracy of Mongo Database by removing testing data and redundant & incorrect client information 
+ Lindale Partners - Private Equity Analyst Intern; Dallas, TX January 2020 - April 2020 
+   Perform primary and secondary research to identify attractive industries & businesses based off investment criteria 
+   Conduct due diligence on prospective acquisitions, including analysis of business model, competitors, vendors, and customers 
+   Coded Python web scrapers that returned the contact information of business owners, business brokers, and investment bankers 
+ Projects 
+ Kuruma - Computer Vision/Web Development/DevOps May 2020 
+   Web application that leverages computer vision to open retractable garage doors at private apartment complexes 
+   Designed, trained, and optimized a CNN that conducts real time OCR recognition on license plates 
+   Programmed ETL pipeline that extracts & converts geospatial data and deploys the information into a dynamic map 
+   Deployed cloud infrastructure on AWS, EC2, S3, and MongoDB cluster using an automated Jenkins CI/CD pipeline 
+   Coded REST API using Flask that allows CRUD capabilities on Mongo database & S3 bucket 
+
+ Slowed and Reverbed - Digital Signal Processing/Web Development/DevOps April 2020 
+   Web application that allows users to apply a "slowed and reverbed" effect to the music of their choice 
+   Engineered Fast Fourier Transform algorithm using NumPy & SciPy to generate the "slowed and reverbed" effect 
+   Created responsive UI and integrated AJAX using HTML/CSS and JavaScript/jQuery 
+   Used AWS API Gateway, Lambda, and S3 to route user requests to Flask API 
+
+ FFmpeg Python Wrapper - Multimedia Processing/Open Source April 2020 
+   Open source library that allows users to automate music, image, and video editing tasks 
+   Utilized careful object-oriented design to structure methods that use subprocess command line calls to execute user commands 
+   Collaborated with Python contributors to introduce typing support, syntax optimization using linters, and OOP redesign along with   taking inspiration from online content communities to introduce new features such as overlay support and media concatenation 
+
+ HONORS & AWARDS 
+   Future of Work Hackathon - 3 rd May 2020 
+   LeapHacks - 2 nd February 2020 
+   HackUNT American Airlines Challenge - 2 nd February 2020 
+   Quantopian Algorithm Trading Competition - 1st November 2019 
+   ABSA Startup Simulation - 1st November 2019 
+   BP Natural Gas Trading Competition - 1st September 2019 
+   Texas Stock Pitch - 4th February 2019 
+ ADDITIONAL INFORMATION 
+ Programming Languages: C++, Python, JavaScript, SQL, Shell/Bash; Exposure to Java, Dart, Golang 
+ Libraries: Pandas, Matplotlib, NumPy, Flask, Selenium, jQuery, scikit-learn; Exposure to OpenCV, CUDA 
+ Tools and Frameworks: AWS, MongoDB, SQLite, Qt, JupyterLab, Bootstrap; Exposure to React/Redux, Node.js, Express.js 
+ Hobbies & Interests: Competitive Programming, Mixed Martial Arts, Cooking, Powerlifting, Startups and Entrepreneurship 
+ Languages: Fluent in Mandarin Chinese (Professional Working Capacity), Fluent in Cantonese (Professional Working Capacity) 
+ Work Eligibility: Eligible to work in the U.S. with no restrictions 
+

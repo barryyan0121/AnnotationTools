@@ -1,0 +1,60 @@
+
+ CHIEH -LIN LEE 
+ Seattle, WA 98105 | (347)345-9083 | lee.chiehl@northeastern.edu | Github: https://github.com/Justin19960919 
+ Professional Summary 
+ Currently a computer science graduate student in Northeastern University. An enthusiastic data analyst eager to   provide insights and solutions for real world problems. Experienced with the data pipeline, including fetching from   database, data preprocessing, data visualization, and data modeling. 
+ Education
+
+ Northeastern University - Seattle
+ Sep, 2020 - Now 
+ Master of Science:
+
+ Computer Science
+
+   Expected graduation : June. 2023 
+ National Taiwan University 
+ Sep, 2015 - Jan, 2020
+
+ Bachelor of Science: Public Health , specialized in Epidemiology and Biostatistics 
+   Academic Excellence Award 
+   Thesis: Metabolic Indicators and related metabolic pathways associated in obesity weight loss 
+ Skills 
+ Language: Mandarin (Native), English (Professional) 
+ Programming: Python , R, SQL 
+ Web Development: HTML, CSS, JS, JQuery 
+ Professional Experience 
+ Data Analyst Intern
+ Jul, 2019 - Aug, 2019 
+ Pizza Hut 
+ Taipei, Taiwan 
+   Fully responsible for user acquisition project, analyzed webpage data from Google Analytics, and provided   improvement plan which resulted in higher member growth 
+   Conducted statistical tests and v isualized campaign analysis by querying sales and member data with SQL and R 
+   Segmented customers with Python and K -means algorithm and provided insights for future campaign planning 
+ IT Intern 
+ Mar, 2019 - Jun, 2019
+
+ Cathay United Bank 
+ Taipei, Taiwan 
+   Maintained COBOL code in core IT division, and was the main tester for the website and ATM functions 
+   Performed data mining using Teradata SQL , conducted weekly analysis, and presented insights to the team 
+   Analyzed credit card transaction data in each channel to support consumer banking group on decision making 
+ Research Intern
+ Jul, 2018 - Aug, 2018
+
+ Taichung Veterans General Hospital, Health Database Center
+ Taichung , Taiwan
+
+ Advisor: Prof. Ching -Heng Lin 
+   Self-designed study: "A Genome -wide Association Study of hyperuricemia and hypertension using 15998 variants   in Taiwan Biobank" 
+   Analyzed high throughput gene data of Taiwan Bio bank, using software including PLINK, R, SAS 
+   Fetched data from Biobank database using SQL 
+   Gave five reports and a final presentation to the Research Ce nter officials , received high praise from the instructors 
+   Admitted as poster in the 2019 Multiomics and Precision Medicine Joint Conference 
+ Selected Projects 
+ LINE bot 
+ ( LINE, originated from Japan, is the most popular messaging app in Asia ) 
+   Built a chat bot to feed users with jokes and memes crawled from the Inte rnet and Instagram using python, including   several modules like requests and BeautifulSoup, and updated using cronjob 
+ GIS Web App 
+   Built a GIS web app that shows the location and number of bicycle tows in the NTU campus using HTML, CSS, JS, Php,   and a MySQL database 
+   Designed an algorithm to calculate the probability of being towed in a certain spot in the NTU campus 
+

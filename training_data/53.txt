@@ -1,0 +1,63 @@
+
+ ZIWEN YAN 
+ | linkedin.com/in/ziwenyan | Oliverziwen@gmail.com | (216)-302-5600 | 
+ PROFILE 
+   Analytical and planning professional with over 3 years' strong experiences in performing demand   planning tasks, supply planning tasks, model building tasks, and reporting tasks such as material   planning (replenishment plans, procurement, inventory level, service level, and forecasting), developing   and maintaining dashboards/reports, and creating ad-hoc models/reports based on the design thinking. 
+   Proficient in Microsoft Excel (PivotTable, VLOOKUP, Macro), Word, PowerPoint, Outlook, Access, Visio, 
+ SAP, R, Python, Minitab, Tableau, SQL 
+
+ EDUCATION 
+ Case Western Reserve University Aug 2016 - Dec 2017 
+   Master of Management in Operations Research and Supply Chain Management GPA: 3.7/4.0 
+
+ Pennsylvania State University, University Park Jan 2011 - Dec 2014 
+   Bachelor of Arts in Supply Chain and Information System 
+   Bachelor of Arts in Economics 
+
+ PROFESSIONAL EXPERIENCES 
+ Atlantic Tool & Die Company 
+ Supply Chain Specialist Dec 2018 - Present 
+   Analyzed the root cause of inventory issues and developed and maintained Excel Macro Models for over   260 SKUs in OH/TX/Mexico facilities to automate strategic planning process in order to maintain   appropriate inventory turnover rate and improve fill rate. 
+   Created Inventory Dashboard to monitor inventory level (in pieces and dollar values) and conducted   inventory analysis with pareto principle to minimize inventory and reduce costs. 
+   Analyzed Build-out jobs to create dashboards to minimize obsolete inventory through each BOM level   and created New Jobs Dashboard to make sure all materials are ready before mass production dates. 
+   Managed the performance of key suppliers in both North America and China about on time delivery,   short/over shipment, quality, etc., and collaborated with suppliers to improve fill rate. 
+   Monitored the differences between forecasts and real demands, and analyzed the fluctuation of demand   to adjust material replenish plans timely. 
+   Built a Purchasing Order Database and Tracking System for main suppliers in China to visualize material   flow and ensure materials can be delivered within the scheduled time to support production. 
+   Automated Customer Orders Entry processes by developing Excel Macros and designing SQL queries   with IT department, resulting in 95% time savings of daily order entry. 
+   Identified under-performing areas and improvement opportunities in supply chain department and make   suggestions to eliminate wastes and help management implement improvement plans. 
+ Achievements: 
+   Successfully created automated strategic planning process to achieve 18% stock reduction, 80% time   saving, over 93% fill rate. 
+
+
+
+
+
+ Tarkett May 2018 - Nov 2018 
+ Production Control Analyst Florence, AL 
+   Responsible for developing and maintaining supply/demand planning models with for 5 product   families and using them to set optimized stock level and replenishment plans in order to limit excess   inventory and stock-out situations. 
+   Developed and maintained models to track shipments from suppliers for over 200 SKUs and 7 vendors   to ensure materials were arrived with the right quantity at the right time to meet customer requirements. 
+   Developed and maintained weekly dashboards for 5 product families and presented reports for both   plant and headquarter management. 
+   Created ad-hoc reports and models to support continuous improvement projects based on design   thinking to ensure user-friendly interfaces and trained end-users to maintain the reports daily. 
+   Managed SAP system settings in functions of BOM and MM, ensuring the information was up-to-date. 
+   Participated in meetings with headquarter supply chain and SOP teams to present data analysis results   and provide supports when they needed. 
+ Achievements: 
+   Successfully developed and implemented Excel models for inventory control and material management   to achieve 20% stock holding reduction and 80% stock-outs reduction, which have resulted in over $1.2M   holding cost savings and above 95% fill rate. 
+
+ Tarkett Mar 2018 - Apr 2018 
+ Supply Chain Planning Intern Solon, OH 
+   Developed quarterly executive dashboards about supply chain performance for 15 products families in   the Tarkett North America Supply Chain Summit. 
+   Communicated with 12 planners from 5 plants to collect data, such as minimum lot size and lead time,   for specific inventory type with over 3,000 SKUs into SAP to ensure the SAP settings were up-to-date. 
+   Collected, cleaned and analyzed large data sets to support various projects, such as warehouses efficiency   analysis, budget management, inventory management, and logistics optimization in corporate level. 
+ Achievements: 
+   Gained thorough knowledge of product ranges, operation processes, and how data drives supply chain   decisions. 
+
+ Current, Powered by GE Aug 2017 - Dec 2017 
+ Project Consultant Cleveland, OH 
+   Managed the application of Lean, Six Sigma, and Theory of Constraints to improve process efficiency. 
+   Collected and analyzed initial cost data to determine the key metrics that drive final invoice prices. 
+   Developed Excel models to visualize how data changed through the entire process and monitor the   process to ensure the accuracy was within the desirable range. 
+   Applied Pareto analysis to identify root causes and provided data-driven recommendations for each root   cause. 
+ Achievements: 
+   Developed a repeatable Excel model to improve the supplier-should-cost forecasting accuracy by 15%. 
+   Achieved Six Sigma Green Belt Certification. 
+

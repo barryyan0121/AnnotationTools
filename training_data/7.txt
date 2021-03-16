@@ -1,0 +1,29 @@
+
+ Gang (Chloe) Cui 
+ 670 Gail Ave. Apt.E10, Sunnyvale, CA 94086 669-600-1370 gc1814@nyu.edu 
+
+ EDUCATION 
+ New York University, New York, US 09/2015 - 05/2017 
+ MS in Integrated Marketing - Concentration in Marketing Analytics 
+ Related Courses: Statistical Measurements, Database Management & Modeling, Business Analytics & Data Visualization 
+ University of Nottingham Ningbo China, Ningbo, China 09/2011 - 07/2015 
+ B.A. (Hons) in International Business with Communication Studies 
+ Related Courses: Quantitative Methods, Introduction to Analytical Thought, Managing the Marketing Mix 
+ SKILLS 
+ Tools: SQL, R, Tableau, Excel, JMP, Google Analytics, MailChimp, Qualtrics, Keynote, Photoshop 
+ Analysis & Modeling: A/B Testing, Multivariate Regression Analysis, K-Means Clustering, Marketing Mix Modeling 
+ PROFESSIONAL EXPERIENCE 
+ Marketing Analyst at Chihuo Inc, San Francisco Bay Area, US 04/2018 - Present   n Conduct user segmentation for e-commerce portal (store.thechihuo.com) using K-Means Clustering in R and tailor   strategies on different segments based on user behavior   n Initiate A/B testing: design & analyze test results, share actionable insights with stakeholders to meet conversion goals   including cart abandonment rate lowered by 23% and lead form completion rate improved by 62%   n Analyze campaign performance for clients, present findings and recommendations using Excel, Tableau and PowerPoint 
+ Digital Media Analyst at Chihuo Inc, San Francisco Bay Area, US 09/2017 - 04/2018   n Conduct custom analyses for clients, propose channel optimization insights including SEO, SEM, paid search, paid social 
+ (Facebook, Instagram), email, retargeting & affiliate to address business challenges   n Design and distribute online surveys using Qualtrics to collect feedback from event attendees, analyze survey data through 
+ Cross-Tabulation Analysis and Conjoint Analysis, and present findings to the C-suite   n Oversee social media management services: creative brief, vendor management, social listening, monthly performance   report using Keynote 
+ Digital Marketing Specialist at Snackoo.com, San Francisco Bay Area, US 07/2017 - 09/2017   n Monitored web traffic, measured performance through key metrics on Google Analytics; created reporting dashboard on   a weekly basis 
+ n Constantly researched on industry best practices (e-commerce and subscription business), leveraged insights from A/B   testing to increase sales from social channels (Facebook, Instagram, WeChat & Weibo) by 150%   n Created segments of email subscribers, launched and automated newsletter campaigns with MailChimp, improving CTR   by 72% and conversion rate by 40% 
+ n Effectively acquired influencers to publish posts & unboxing videos, generating social interactions (UGCs), driving site   traffic and conversions 
+ Digital Marketing Specialist at Airacer Inc, New York, US 02/2017 - 05/2017   n Performed data analysis via Google Analytics and BigQuery to uncover user acquisition opportunities   n Drafted plans for two digital campaigns including "A Good Story to Tell", improving conversion rate by 200%   n Created newsletter templates with MailChimp for trigger emails (e.g. abandoned cart), improving CTR by 58%   n Constantly tested new channels (affiliate and social) to drive incremental reach and conversions 
+ Digital Marketing Intern at Burson-Marsteller, Beijing, China 06/2016 - 09/2016   n Conducted primary & secondary research and competitive analysis for HTC Desire 10 Pro and prepared for its release   n Managed the official Facebook account for Hisense International, the global sponsor of UEFA EURO 2016, built social   calendar and optimized ad campaigns, which doubled followers to 80k and lowered CPA by 70% within three months   n Monitored campaign executions by interpreting insights from Facebook Analytics and audience engagements throughout   social media on a weekly basis 
+ PROJECT 
+ Marketing Mix Modeling Bootcamp on MarTechApe 08/2018 - 10/2018   n Collected, aggregated, cleaned data and managed the ETL process using MySQL   n Performed Marketing Mix Modeling with R to evaluate the impact of various marketing tactics   n Built Tableau dashboards to visualize model results; generated informative visualizations including AVM, model   contributions, and media ROIs to deliver key business insights   n Analyzed the effectiveness and efficiency of different media activities (e.g. TV GRPs, Clicks, Impressions, etc.) 
+ n Provided recommendations on budget optimization using Excel Solver 
+
+

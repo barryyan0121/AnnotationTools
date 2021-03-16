@@ -1,0 +1,42 @@
+
+ ALVIN ZOU 
+ sc.alvinzou@gmail.com | (669) 285-8614 | linkedin.com/in/alvinzou/ | github.com/happinyz 
+ EDUCATION 
+ University of California, Irvine - GPA: 3.57 
+ B.S. Data Science, B.S. Applied and Computational Mathematics Sept 2018 - June 2022 
+   Relevant Coursework: Statistical Methods (Machine Learning), Data Analysis (Data Visualization), Algorithms, 
+ Data Structures, Object-Oriented Programming, Linear Algebra, Numerical Analysis, Data Management, Bayesian 
+ Data Analysis, Statistical Computing 
+
+ PROJECTS 
+ Lofi Prediction Model - Personal Project 
+   Built a tool using Python that predicts if a certain track's author on Spotify is part of the lofi genre 
+   Analyzed over 2500 songs of various genres on Spotify, and used track audio features from Spotify API as predictors 
+   Built a Flask API endpoint hosted on local webserver that takes in audio features and returns lofi genre prediction 
+ FLUCI - Hackathon Project 
+   Developed a website with a team to allow students and staff to report flu symptoms at locations around campus 
+   Implemented and visualized data as dynamic heatmaps using Javascript, NodeJS, and Google Maps/Places API 
+ Teammate Finder Discord Bot - Personal Project 
+   Created a bot using Discord Python API to help find people to play games with, deployed in server of 100 members 
+   Utilized built-in message "reactions" and "pings" to easily notify all parties of game invitations and requests 
+ Othello AI - Class Project 
+   Developed an AI for the game Othello using C++, and designed a heuristic search algorithm to determine the most   optimal moves 
+   Modified move selection algorithm to choose suboptimal moves, allowing players to customize AI difficulty 
+ Street Navigator - Class Project 
+   Constructed a street navigator using C++ that determines possible routes and shortest distance and time between   start and destination 
+   Represented maps as directed graphs using adjacency matrices and calculated travel times using Dijkstra's Algorithm 
+
+ EXPERIENCE 
+ North America Scholastic Esports Federation (NASEF) 
+ League Ops Intern Apr 2019 - Present 
+   Write scripts using League of Legends API to determine player eligibility and automate distribution of special game   account perks 
+   Create and manage programs for over 7500 high school students to use esports as a platform to encourage   competition, collaboration, and education 
+   Officiate nationwide high school esports tournaments spanning over 200 schools, with students competing for   thousands in grants and scholarships 
+
+ SKILLS 
+   Languages: Python, C++, JavaScript, SQL, HTML, R, MATLAB, Mathematica 
+   Frameworks / Tools: NodeJS, Git, mySQL, Flask, Pandas, Scikit-learn, Jupyter Notebook 
+   Technologies: Machine Learning, Databases, Data Visualization 
+
+
+

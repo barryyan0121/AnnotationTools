@@ -1,0 +1,51 @@
+
+ Shuyun Zhang 
+ (973)-901-3968 | shuyun.zhang@marylandsmith.umd.edu | 1201 Tennessee St, San Francisco CA 94107
+
+ Summary 
+ Passionate, professional and collaborative data analyst with 2 years analytical experience specializing in data-driven   business and marketing analysis using machine learning, distributed data mining, data visualization and interpretation. 
+
+ Education 
+ University of Maryland, Robert H. Smith School of Business College Park, MD, US 
+   Master of Science, Business Statistics: Marketing Analytics, GPA: 3.73/4.00 Aug 2018 - Dec 2019 
+   Data Science, Statistical Programming, Digital Analytics, Marketing Research 
+ University of Sheffield, Management School Sheffield, UK 
+   Dual degree, Bachelor of Arts, Business Management, 2:1 honors Sep 2016 - Jun 2018 
+   Business Strategy, Integrated Marketing Communication, Business Intelligence 
+ University of Shanghai for Science and Technology, Sino-British College Shanghai, China 
+   Dual degree, Bachelor of Management, Business Management, GPA: 3.50/4.50 Sep 2014 - Jun 2018 
+
+ Technical Skills 
+   Programming and data processing tools: SQL, Python, Advanced Excel, R, Tableau, SAS, HTML, Unica 
+   Proficiency: digital analytics, Google Analytics, data visualization, statistical tests, data modeling, data mining,   marketing research, Salesforce Marketing Cloud, segmentation and targeting, A/B testing, Google Ads 
+   Machine Learning: Traditional modeling (linear/logistic regression, tree/forest, SVM, KNN, NB, clustering), Deep   learning (DNN, CNN), Tuning (cross validation, feature selection, regularization), data cleaning, model interpretations. 
+
+ Selected Work Experience 
+ WorldPantry.com San Francisco, CA, US 
+ Digital Marketing & Analytics, Intern Mar 2020 - Present 
+   Analyzed customer behaviors, e.g. the effect of acquisition channel and auto subscription on customer retentions, from   daily or historical (3+ years) transactions and user data (at the scale of 500k+ entries). Merged raw data from various   sources and post-processed them using segmentations, joins, and slicing techniques. Built data pipelines in Python to   bulk process data across 60+ brands. Visualized and reported the findings in charts. 
+   Analyzed customers' purchasing behaviors and compared the profitability (e.g. average order revenue, total transactions,   etc.) between various customers segments. Constructed nested queries using SQL to efficiently process high dimensional   raw data from the database, grouping by combinations of customer characteristics for the final findings. 
+   Built and updated partner monthly performance report and partner revenue summary using internal database, Google 
+ Analytics and advanced Excel. 
+ AARP Washington DC, US 
+ Database Marketing Services & Analysis, Intern Jun 2019 - Aug 2019 
+   Imported employer pledger data and 200k prospect employee scores from raw Excel to Tableau, merged them in Tableau   and visualized as a dual-axis heatmap at zipcode-level, helping the internal client examine current and potential employer   singers of AARP non-discrimination pledge. 
+   Created and analyzed webinar registrant profiles based on audience segmentation by topics using statistical indices in 
+ Excel, and made recommendations for future marketing campaign design and targeting for clients. 
+   Automated the dashboard of marketing campaign results and model performance using Unica and Vlookup. The team no   longer need to manually log in 1k+ data points, saving 80% of their monthly reporting time. 
+
+ Selected Projects 
+ Google Paid Search Keyword Analysis Nov 2019 
+   Optimized net revenue of a paid search campaign for a virtual client utilizing Google Keyword Planner (part of Google 
+ Ads) by exploring the best performing potential keywords of the best performing ad group in a group of five. 
+   Used KPIs (e.g. ROA, CPA, etc.) in pivot table to analyze the performance of current campaign and identified the best   performing ad group. 
+   Used Google Keyword Planner to explore new keywords within the selected ad group and adjusted bid amount to find   out the best potential keyword and optimal bid amount that maximize net revenue by forecast. 
+ Online Shopping Big Data Analysis Jan 2019 - Mar 2019 
+   Cleaned, transformed and aggregated 500k raw session data scraped from the internet using Python Sklearn library. 
+   Fine-tuned Linear, Lasso, ElasticNet, Ensemble and SVM regressors with regularization to fit and predict customer   purchase behaviors. Selected the best performing model by cross validation. Beat baseline RMSE metric by 20x. 
+   Interpreted model parameters with business justifications, visualized results using Tableau and delivered to audiences. 
+
+ Leadership and Honors 
+   Vice President of External Relations, Smith Master Student Association, UMD Smith School of Business, 2018-2019 
+   Chinese National Scholarship of 2017 
+

@@ -1,0 +1,53 @@
+
+ Chen (Jeffrey) Liu 
+ Los Angeles, CA 90089   chen.liu.2020@marshall.usc.edu   (617) 902-8018   www.linkedin.com/in/cliu2015 
+
+ EDUCATION 
+
+ University of Southern California, Marshall School of Business - Los Angeles, CA December 2020 
+ Master of Science in Global Supply Chain Management, GPA: 3.9 
+
+ Boston University, College of Arts and Sciences - Boston, MA May 2019 
+ Bachelor of Arts in Economics & Mathematics, Minor in Computer Science and Statistics, GPA: 3.3 
+
+ PROJECT 
+
+ Operation Consulting Project: Capacity Planning for Aryzta Spring 2020 
+   Calculated and compared SKU throughputs on a given production line with their category throughputs for that line. 
+   Utilized Tableau to create a dashboard to visually represent data and identified SKU throughputs that vary significantly from   product category throughput. 
+   Built a capacity planning model outputting maximum projected uptime hour for SKUs based on product category and   production line to increase product planning and performance in Excel. 
+
+ Lean Six Sigma Project: rPlanet Earth Core Process Improvement Spring 2020 
+   Completed all the stages of DMAIC which includes Define, Measure, Analyze, Implement and Control for this project. 
+   Created VSM (Value Stream Mapping) to washline and decontamination process. Analyzed the core process based on value   added and redesign the process to improve the performance and efficiency. 
+   Generated dashboard for major input planning. Resulted in around 1.7 million dollars Annual saving. 
+
+ ASCM Case Competition in Collaboration with Deloitte Spring 2020 
+   Took 1 st place in a team of 4 participants in school round case competition. 
+   Analyzed one juice manufacturer with its operational data, including inventory and maintenance schedule, and 5 KPIs to find   the key issue that caused this manufacturer's unplanned downtime increase. 
+   Recommended and introduced a new layout of warehouse to increase the efficiency of warehouse management and   established a different working system to optimize the maintenance schedule. 
+
+ EXPERIENCE 
+
+ Lianton Network Technology Co., Ltd. - Shanghai, China Summer 2019 
+ Operations Intern 
+   Researched and studied trends in user generated content. Performed daily/weekly reporting with data visualization using 
+ Tableau. Provided possible solutions to maintain user retention leading to a 3% increase in user retention. 
+   Uncluttered backend data to design daily/weekly user report and user classification report. 
+   Devised new incentive of attracting new users by giving existing users more rewards when inviting their friends. Led to an   increase in DNU (Daily New Users) by 5%. 
+   Analyzed market and segmented customers to increase advertising effectiveness. 
+
+ Agricultural Bank of China - Lianyungang, China Summer 2018 
+ Data Analyst Intern 
+   Loaded pre-recorded data sets from the internal client data management system into Python, cleansed the data sets of over   10,000 clients, used kMeans to conduct clustering analysis. 
+   Cleaned and prepared corporate loan client data, including but not limited to previous loan records, current financial standing,   assets and debts, and constructed predictive models to forecast loan defaults. 
+   Performed due diligence on corporate loan applicants, assisted in working on temporary assignments from other teams, e.g., 
+ coordinating internal group discussions, meetings with VIP clients, recording meeting minutes, collecting feedbacks from 
+ VIP clients, collecting latest central bank policies, preparing research reports. 
+
+ ADDITIONAL INFORMATION 
+   Certificate: IBM Data Science Professional Certificate (In process), Lean Six Sigma Green Belt 
+   Computer: Tableau, Python, Java, Stata, SAS, R, SQL, SAP ERP, Microsoft Excel, MATLAB. 
+   Languages: Fluent in Mandarin and English. 
+   Awards: Dean's List - Spring 2018, Fall 2018 and Fall 2019. ASCM Case Competition school round winner. 
+

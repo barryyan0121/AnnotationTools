@@ -1,0 +1,37 @@
+
+ BINGJIE (JOJO) LI 
+   linkedin.com/in/bingjie -jojo-li-520944116   jojobingjie@gmail.com   (216) 612 -2937 
+ SUMMARY 
+   Operations Analyst with cross -functional experience in developing operational reports, conducting cost   analysis, analyzing root cause and continuous improvemen t in a global manufacturing company. 
+   Master degree in Operations Research and Supply Chain Managem ent, APICS CPIM candidate with strong   knowledge of supply chain and operations concepts such as Optimization Modeling, Statistics, Operations 
+ Management, Logistics, Cost Analysis and Project Management . 
+   Proficient in Microsoft Excel (PivotTable, V -lookup , Macro ), PowerPoint, Word , intermediate knowledge of 
+ Tableau, Python , Arena, currently learning SQL and Access . 
+   Fluent in English and Mandarin, verbal and written communication. 
+
+ EDUCATION 
+ Case Weste rn Reserve University Jan 2018 
+   Master of Science in Management, Operations Research & Supply Chain GPA: 3.8/4.0 
+ Southwestern University of Finance and Economics Jun 2016 
+   Bachelor of Science, Finance 
+ CPIM candidate - APICS Association Oct 2 017 - Present 
+
+ EXPERIENCE 
+ Atlantic Tool & Die Company Sep 2018 - Present 
+ Operations Analyst Strongsville , OH 
+   Gather data from different databases and sources to create daily/weekly/monthly operational reports to track   business KIPs and report to executive management, helping capture company's operational performances. 
+   Developed and updated Variable Margin Reports quarterly for plants in OH, TX and MX to summarize high   and low margin parts, helping management understand product performances and gross profitability. 
+   Analyzed abnormal cost data in monthly updated Actual Cost Report for more than 800 parts to f ind potential   operational issues and the possible root cause of every problem, in order to help plant managers to identify   possible opportunities to reduce operational costs and improve profits. 
+   Worked with IT team to connect data to Excel using SQL and bu ilt rolling material forecasting model to   automate forecasting processes, reducing forecasting time tremendously from 6 hours manually to 0.5 hour   automatically, increasing forecasting efficiency by more than 90% and increasing forecasting accuracy by 40%. 
+   Maintain and update outside process schedules for 22 vendors and more than 350 parts based on customer   requirements, inventories and lead times, coordinated with vendors daily to make sure timely flow of   materials to be supplied and delivered on time, mak ing sure production requirements can be met. 
+   Communicate with vendors as needed to troubleshoot forecasting issues , explain demand fluctuations and   work with vendors to solve material supply issues, ensuring production needs can be met. 
+   Maintained and upda ted production capacity models with latest data and new model information, handled   customer issues regarding production capacity status. 
+ Current, Powered by GE Aug 2017 - Dec 2017 
+ Project Specialist Cleveland, OH 
+   A lean six sigma project that a pplied DMAIC methodology to reduce high inventory write -off costs . 
+   Prepared a project plan including Gantt c hart to clearly schedule and visualize the whole project process. 
+   Identified possible constraints of high inventory write -off costs using "5 Whys" root -cause analysis method   to find improvement opportunities. 
+   Organized regular bi -weekly meetings and provided mont hly progress reports to project stakeholders about   new finding, new thoughts and possible solutions to ensure timely delivery of project goal. 
+   Compared the pros and cons of possible solutions to the root cause to find a practical way to improve   inventory f low efficiency as well as optimize costs. 
+   Achieved Lean Six Sigma Green Belt. 
+

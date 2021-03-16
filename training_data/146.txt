@@ -1,0 +1,45 @@
+
+
+ EMILY NGO 
+ Berkeley, CA | (714) 722-5153 | emilybngo@berkeley.edu 
+ EDUCATION 
+ University of California, Berkeley Berkeley, CA 
+ Data Science Major (Concentration: Business & Industrial Analytics), Computer Science Minor May 2022 
+ Relevant Coursework : Foundations of Data Science, Structure and Interpretation of Computer Programs, Data Structures, 
+ Linear Algebra 
+ EXPERIENCE 
+ UC Berkeley: Office of the Vice Chancellor of Undergraduate Education Berkeley, CA 
+ Data Analyst September 2020 -Present 
+   Cleaned and analyzed data sets with Pandas and NumPy from campus wide surveys which are utilized in making reports for   recommending and making decisions around future undergraduate services and initiatives 
+   Assisted in the design of A/B test regarding student ride-share usage between colleges and evaluated results 
+   Built and designed reports with MatPlotLib used to showcase UC Berkeley's best undergraduate practices at national   conferences 
+ UC Berkeley Undergraduate Lab Berkeley, CA 
+ Undergraduate Data Science Researcher August 2020 - Present 
+   Worked with a team of undergraduate researchers in conducting data science research about COVID-19's impact on the   sports entertainment industry specifically with NBA basketball 
+   Performed analysis on available public datasets and visualized data which would then be presented at a research symposium 
+   Wrote research question, proposal, and plan that would lay the foundation for the research team's direction and roadmap 
+ Union Supply Group Rancho Dominguez, CA 
+ Data Science & Analytics Intern May 2020 - August 2020 
+   Fully produced reports to visualize the company's KPIs in order to determine raises and bonuses for employees 
+   Automated the company's email marketing procedure for the client to quickly retrieve valid customer emails and mass send   emails with back and frontend development which decreased the procedure time by 50% 
+   Built SQL queries through SQL server to analyze company sales data 
+
+ LEADERSHIP & EXTRACURRICULARS 
+ UC Berkeley Data 8 Berkeley, CA 
+ Learning Lab Assistant August 2020 -Present 
+   Assisting in a course's lab that consisted of 40-50 students in an foundational data science course through one on one tutoring   and office hours 
+   Teaching introduction Python and data science concepts like linear regression, bootstrapping, and A/B testing to fellow   students 
+ Consult Your Community Nationals Berkeley, CA 
+ Summer Analyst Intern May 2020 - August 2020 
+   Selected to be on the national internship team to help consult small businesses negatively affected by the COVID-19   pandemic 
+   Cleaned and analyzed sales data with NumPy and data visualizations for client #2 to understand their most popular sales   items, loyal customers, and customer demographic 
+   Built a live dashboard that temporarily tackled the client's supply chain issue which displayed supplier information,   ultimately extending her operations during the pandemic from what was first only 4 months to at least another 8 months of   supply 
+   Strategically developed two clients business plans that will allow them to operate through the pandemic's foreseeable future 
+
+ SKILLS & INTERESTS 
+ Languages:  Python (Advanced), HTML & CSS (Proficient), SQL (Intermediate), Java (Intermediate) 
+ Frameworks/Tools:  NumPy, Pandas, MatPlotLib, Tableau, Excel, Photoshop, SSRS/SSAS, Report Builder, SQL Server 
+ Awards:  Distinguished Lieutenant Governor (April 2019), U.S. President Volunteer Service Award (April 2019) 
+ Interests:  Basketball, Vietnamese food, Streetwear, Eyelashes, Patagonia, Hydroflasks/Yetis, 
+
+

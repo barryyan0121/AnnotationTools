@@ -1,0 +1,37 @@
+ 
+Stephen Lee 
+19 Pacifico Ave, Daly City, CA, 94015 
+Phone : (650) 515-9382 Email: slee26@mail.sfsu.edu 
+	 
+	
+EXPERIENCE 
+SSF Imported Auto Parts, South San Francisco - Sales Administrative Intern 
+February 2020 - April 2020 
+-Pursue potential customers from a list of given leads and determine if they match company qualifications 
+
+-Edit customer data on the company database IBM AS/400 
+-Use company database to input and maintain customer data, order products from the warehouse, and search customer information 
+-Create welcome and promotional kits on new products for new and existing customers  
+State Compensation Insurance Fund, Pleasanton - IT Quality Assurance Intern 
+June 2019 - August 2019 
+-Test automation of company website on various devices and browsers available and application used to process workers' compensation applications on various devices and browsers available 
+
+-Create, maintain, and execute test scripts and cases for functional and other testing, which reduced the number of bugs on the application 
+-Evaluate, document, and relay test results and findings over to project developers and managers to make necessary modifications and changes to the application according to the device and browser 
+-Develop, document, and make recommendations for standards, guidelines, and process improvement 
+-Participate in training to learn about new technology and processes replacing the old and maintain knowledge of business procedures to stay informed on all individuals' and teams' progress  
+EDUCATION 
+San Francisco State University -  
+August 2016 - Present 
+Business Administration- 
+
+Information Systems;  
+Expected Graduation: July 2020 
+Westmoor High School - Diploma 
+August 2012 - May 2016 
+	SKILLS 
+
+      Test Automation, Research, Customer Service, HTML, CSS, JavaScript, SQL, MongoDB, SAP ERP Sim, IBM AS/400, Microsoft Access and Project 
+ 
+	
+ 

@@ -1,0 +1,51 @@
+
+ Tingting Yang 
+ 4047 Ithaca Street (917) 860-8502 
+ Elmhurst, NY 11373 tty230@nyu.edu 
+
+ EDUCATION 
+ New York University New York 
+ Master of Science: Major in Integrated Marketing (GPA 3.7) Sep. 2017 - May. 2019 
+ Concentration: Marketing Analytics 
+ Relative coursework: Web Analytics; Business Analytics; Database; Statistics; Integrated Marketing 
+ Southwestern University of Finance and Economics (SWUFE) Chengdu, China 
+ Bachelor of Economics: Major in Finance and Financial Management (GPA 3.6) Sep. 2013 - Jul. 2017 
+ Coursework: Financial Planning, Corporate Finance, Accounting, Investment, Econometrics 
+ B-level Academic Scholarship (5/50) for 2 semesters; Outstanding Student Leader (5/120) 
+ New York University Exchange program in Global Business Leadership Department Jul. 2015 - Aug. 2015 
+
+ EXPERIENCES 
+ KPMG, Assistant Consultant Beijing, China | Jun 2016-Aug 2016 
+   Risk control modeling analysis project for Nanhai Rural Commercial Bank (NRCB) based on Basel II 
+   Handled data mining to define and prepare data for modeling, using SQL and MS Excel 
+   Helped with data regression, model testing, matrix visualization and model renewal, using SQL DQS 
+   Used Logistic regression to refine accuracy of Loss Given Default rate in SAS 
+ FAW Toyota Motor Sales, Marketing Assistant Beijing, China | Apr 2016-Jun 2016 
+   Conducted competitor investigation based on the data extracted from Wind database, using PIVOT Table 
+   Maintained sales and marketing channels and co-organized the Toyota Brand Trade Show 
+   Used SAS to draw distribution diagram and descriptive statistics based on the data from CRM system 
+   Applied regression analysis to predict purchasing behavior and design the network ADs delivery scheme 
+ China CITIC Bank, Customer Manager Assistant Chengdu, China | Jan 2016-Mar 2016 
+   Managed the official account on WeChat and doubled the number of subscribers and pageview 
+   Designed and supervised marketing events, increased wealth management product sales of ¥10mn in 2 weeks 
+   Developed over 130 potential clients for POS machine business within 2 weeks 
+
+ PROJECTS 
+ New York University (Course Projects) New York 
+ Business Analytics, Analysis of employee donation of Chase Bank Jan. 2019 
+   Created relational datasets including employee salary, payroll, donation and individual information, in SAS 
+   Conducted regression analysis, cross frequency analysis and hypothesis testing to identify important features and   correlation 
+   Performed data exploratory analysis through visualization, including scatter plot, histogram, etc. 
+   Presented data findings and suggestion to team to improve employee's donation rate of Chase Bank 
+ Web Analytics, Customer analysis for GC4Women Organization website Oct. 2018 
+   Conducted segmentation analysis based on customer visiting behavior, demographic distribution and   psychological preferences through Google Analytics 
+   Predicted customer preference based on studies of customer bounce rate, session on page and duration 
+   Increased 20% of visitors on website and increased 50 seconds duration on websites news page within 2 weeks 
+ Web Analytics, Analyze web visitors browsing behavior May. 2018 
+   Generated Sankey diagram on Jupyter Notebook using more than 2 millions rows of web browser datasets for each   of the top five new websites such as CNN.com, Washingtonpost.com, in 2011 to analyze web visitors' referral   domains and bounce rate, and presented website improvements to increase SEO traffic by conducting in-depth key   words analysis on Google Analytics 
+   Built three different model AR, MR, ARMA to create forecasting models respectively for (1) Number of Users, (2) 
+ Page Views, and (3) Duration, and presented findings on how to improve web users experience 
+   
+ SKILLS 
+ Skills: Python, SQL, Tableau, Excel, Google Analytics Languages: Mandarin (native language), English (fluent) 
+

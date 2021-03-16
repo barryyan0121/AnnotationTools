@@ -1,0 +1,63 @@
+
+ HAORUI ZHU 
+ DATA SCIENCE & ANALYTICS 
+
+ CONTACT 
+ zhuhaorui328@gmail.com 
+ (201) 577-4651 
+ Jersey City, NJ 
+ https://www.linkedin.com/in/haorui-
+ david-zhu/ 
+ github.com/daweizhu113 
+ PROFILE 
+ Data analyst, aspiring Data Scientist,   equipped with proven analytics 
+ expertise, passionate for applying data   analysis to the data world-building tools   and generating insights. 
+ EDUCATION 
+ 2017-2019 
+ NEW YORK UNIVERSITY [NEW YORK, NY] 
+ M.S of Marketing Analytics 
+
+ 2013-2017 
+ UNIVERSITY OF ILLINOIS [URBANA, IL] 
+ B.S in Chemical Engineering 
+ MANAGEMENT SKILLS 
+   Project and Team Management 
+   Trello, Monday 
+ TECHNICAL SKILLS 
+   Programming Language -Python 
+ (NumPy, Pandas, Scikit-Learn), 
+ MySQL 
+   Machine Learning (Regression, 
+ Classification, Clustering, 
+ Decision-Tree) 
+   Statistics & Probability - A/B 
+ testing, Hypothesis testing 
+   Data Visualization - Tableau, 
+ Python (Matplotlib, Seaborn) 
+   Software & Tools - (Spark, AWS, 
+ Snowflake, Liveramp, Google 
+ Analytics/360 Search, Microsoft 
+ Office[Excel, Word]) 
+ EXPERIENCE 
+ FEBURARY 2020 - PRESENT 
+ Data Analyst | SPH Phililab, Plymouth Meeting, PA 
+
+   Established a Data cleaning and ETL process with SQL and Python for   the raw dataset from multiple databases into the desired format for   further analysis 
+   Build multivariate regression machine learning models to predict sales   and cost in next quarter (Scikit-learn) 
+   Created dashboard to present the performance of sales situation and   trend insights comparing with past periods to executive officers and   clients with Tableau 
+ MAY 2019 - DEC 2019 
+ Data Analyst | Media Storm, New York, NY 
+
+   Shortening data cleansing, developing analytical data sets and   gathering business deliverable period about 2 days on average by   using pipelined automation Python scripts. 
+   Decreasing advertising expenditure by 6.2% to last quarter and   3.6% to the same period 2018 by redesigned the trade area and   optimized Ads spend on top performance stores with Tableau to   validate geo-mapping and process TMR data and analyze   insights with Python scripts. 
+   Reducing 5% Social Marketing budget for next quarter by regrouping   customers into Microsegments with Python (pandas, Sklearn) based   on multiple attributes analysis (classification, clustering). 
+ PROJECTS 
+ Salary Prediction | Machine learning Project 
+   Pipelined the coding process and predicted Salaries as target   variable based on other variables through several Machine   learning models (Regression, Gradient Boosting Regressor,   and Random Forest) with cross-validation method and low 
+ MSE (356) result. 
+   Applied appropriate Data cleaning and exploration on datasets   through data validation and visualization, including correlation   check through heatmap in Seaborn. 
+ ZHI HU Big Data Analysis | Data Science Project 
+   Conducted digital marketing research, web scraping, word   cloud analysis, and provide a recommendation system for user   preferred topics. 
+   34% of users are dead, and influencers have a strong long-tail   effect through analyzing customer behavior data by using 
+ Clustering ML model in Python. 
+

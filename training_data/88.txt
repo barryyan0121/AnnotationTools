@@ -1,0 +1,66 @@
+
+ SHAOSHA HUANG 
+ (312) 885-3709 
+ hshaosha@gmail.com 
+ https://www.linkedin.com/in/shaosha-huang/ 
+
+ SUMMARY: marketing analytics professional with data analysis, predictive analytics, and data visualization internship experience. 
+
+ EDUCATION 
+ ILLINOIS INSTITUTE OF TECHNOLOGY - Stuart School of Business Chicago, Illinois 
+ Master of Science in Marketing Analytics (STEM) May 2020 
+   GPA: 3.92 
+   Relevant Coursework: Predictive Analytics, Business Analytics, Marketing Research and Engineering, Advanced Analytics   for Decision Making, Strategic Marketing Management, and Supply Chain Analytics 
+   Recipient of Merit Scholarship, Member of Beta Gamma Sigma, Candidate of Stuart Board of Advisors Mentorship Program 
+
+ HUIZHOU UNIVERSITY Huizhou, China 
+ Bachelor of Arts - Business July 2018 
+ Relevant Coursework: Business Management, Business Communication, International Business Law, and E-Commerce 
+
+ ACADEMIC PROJECTS 
+ ILLINOIS INSTITUTE OF TECHNOLOGY - Stuart School of Business Chicago, Illinois 
+
+ Employment Status Prediction Project (SPSS Modeler) April 2020 - April 2020 
+   Received and manipulated 2019 Employment data with unique indexes of 332 from the professor using SPSS Modeler 
+   Built an Ensemble model using Feature Selection Node and Auto Classifier Node with an overall accuracy of about 79.2% 
+   Manipulated and connected 2020 Employment data to the Ensemble model to find 23 employees possible to leave the company 
+
+ Bank Marketing Campaign Project (SPSS Modeler, R, and Tableau) November 2019 - December 2019 
+   Downloaded Bank Marketing Dataset from Kaggle with unique indexes of 11,163 and manipulated it using SPSS Modeler 
+   Built Decision Tree Model using SPSS Modeler with accuracy rate of 92.7% for training dataset and 90.8% for testing dataset 
+   Built Neural Network Model using SPSS Modeler and R with overall percent correct of 81.7% 
+   Created 1 dashboard and 1 story using Tableau to visualize and analyze the relationship between predictors and target 
+
+ Forecasting IIT Alumni Donations Project (R) April 2019 - May 2019 
+   Performed data cleaning and manipulating on IIT alumni donation data with unique indexes of over 2,100 
+   Built Logistic Regression Model and applied Bagging to estimate donation probabilities with Mean Squared Error of 0.177 
+   Built Linear Regression Model and applied AdaBoost to estimate donation amounts with Mean Squared Error of 0.215 
+   Applied model testing including Sensitivity test and In-Sample Test 
+
+ PROFESSIONAL EXPERIENCE 
+ PURECIRCLE Chicago, Illinois 
+ Marketing Data Analyst Intern January 2020 - May 2020 
+   Designed and built 16 custom business target datasets from scratch using Innova Database, EuroMonitor Database, and Excel 
+   Manipulated data and provided 30 data insights for custom market size, market trends, and competitive analysis requests 
+   Built 12 PPT decks with Tableau based interactive visualizations, market analytics, and product analytics 
+   Refined and maintained business tracker spreadsheet and researched and analyzed similar companies for lead generation 
+
+ NYSSA CARE Chicago, Illinois 
+ Marketing Intern June 2019 - November 2019 
+   Developed 3 automatic weekly reports with Google Data Studio and Google Analytics 
+   Created and maintained 4 Google Ads campaign, 4 email contact lists and 7 contact segments in Klaviyo of over 450 profiles 
+   Created 7 email campaigns and 2 flow emails with average open rate of 44.6%, CTR of 4.37%, and unsubscribe rate of 0.4% 
+   Analyzed email results and performed A/B testing on send time, subject line, and preview text, and improved open rate by 4% 
+
+ STUART SCHOOL OF BUSINESS Chicago, Illinois 
+ Student Affairs Student Assistant May 2019 - August 2020 
+   Analyzed and prepared a descriptive report every month on data received during academic open advising hours 
+   Assisted Stuart staff and faculty on projects including data collection, orientation, and commencement 
+
+ TECHNICAL / LANGUAGE SKILLS 
+ Certifications: Tableau Developer; Tableau Analyst; Tableau Data Scientist; IBM Enterprise Design Thinking Practitioner; Kellogg 
+ School of Management - Marketing Strategies: Data, Automation, AI and Analytics; Google Analytics Certification; 
+ Data Skills: SQL; DataRobot; Excel Solver; Tableau Desktop; Power BI; Spreadsheet Modeling; Alteryx; Monte Carlo Simulation 
+ Statistic Skills: R; SPSS Modeler; SPSS Analytics 
+ Other Skills: Cantonese; Mandarin; Canva; Microsoft Office; Pardot; Salesforce; Klaviyo 
+

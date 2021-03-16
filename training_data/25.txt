@@ -1,0 +1,48 @@
+
+ Yun-Hsin (Jocelyn) Liu 
+ 180 Myrtle Ave, Apt 6L, Brooklyn, NY, 11201   (319) 512-2025   jocelynyliu2015@gmail.com   https://www.linkedin.com/in/yun-hsin-jocelyn-liu/ 
+
+ EDUCATION 
+ UNIVERSITY OF IOWA, TIPPIE COLLEGE OF BUSINESS Iowa City, IA 
+ Master of Science in Finance - STEM Designated Program (GPA: 3.95/4.0) Anticipated 12/2020 
+   Scholarship: Iowa Elite Master's Scholar Award, Henry Fund Scholarship 
+ Bachelor of Business Administration in Finance, 08/2015 - 05/2019 
+ Bachelor of Business Administration in Business Analytics & Information Systems (GPA:3.29/4.0) 
+   Dean's List 
+ EXPERIENCE 
+ STUDENT MANAGED EQUITY INVESTMENT FUND - HENRY FUND Iowa City, IA 
+ Equity Research Analyst - Financial Services Sector 12/2019 - Present 
+   The Henry Fund is an $15MM endowed equity portfolio with a track record of generating significant alpha 
+   Develop financial models to evaluate intrinsic value on both absolute and relative basis via 
+ Discounted Cash Flow, Economic Profit, Dividend Discount, and Relative Valuation Analysis 
+   Present Buy/Sell recommendations to the Henry Fund Advisory Board 
+ CUNA MUTUAL GROUP - MEMBERS CAPITAL ADVISORS Madison, WI 
+ Fixed Income Research Summer Analyst 06/2020 - 08/2020 
+   CUNA provides asset management services to U.S. credit unions, managing approximately $20B in AUM 
+   Conducted research on public and private fixed income and structured securities, utilizing company financial   statements, yield sensitivity, liquidity, and covenant analysis 
+   Presented security recommendation to Portfolio Managers for a $10MM private bond deal in an energy company 
+   Performed quantitative analysis on Non-Qualified Mortgage RMBS, based on key metrics across bond credit   enhancement, FICO score, property type, investment type, default rate, and prepayment risk. Presented research   conclusion to the Head of Credit Research and Portfolio Managers via Tableau and Power BI 
+ UNIVERSITY OF IOWA, TIPPIE COLLEGE OF BUSINESS Iowa City, IA 
+ Teaching Assistant, Financial Information Technology Course 01/2020 - 05/2020 
+ Teaching Assistant, Financial Analytics Course 08/2019 - 12/2019 
+   Held weekly office hours to reinforce students understanding of key course concepts and class assignments in R/Excel 
+ JETZY New York City, NY 
+ Finance and Investment Summer Intern 05/2019 - 08/2019 
+   Jetzy is a startup that is developing a geo-location-based user-to-user travel-related social media application 
+   Built financial model to evaluate firm's historical profits and projected cash flows under various funding scenarios 
+   Led the finance intern team (20 interns) responsible for conducting forward-looking analysis including capital   raising, investor research, and competitor companies' analysis and presented the research conclusions to   the CFO 
+ PROJECTS 
+ SALES FORECAST CAPSTONE PROJECT Iowa City, IA 
+ Project Lead 08/2018 - 12/2018 
+   Partnered with GreatAmerica, a financial leasing company, identifying key factors to drive revenue growth 
+   Built prediction models including Random Forest, Logistic Regression, and Decision Tree models via R, based on 1MM   record dataset, to evaluate and forecast sales 
+   Presented recommendations to senior management team via Tableau and PowerPoint 
+ TRAVEL SEARCH ENGINE Iowa City, IA 
+ Project Lead 01/2017 - 05/2017 
+   Designed and constructed a website to resolve flight overbooking issue via SQL and Apex Oracle 
+ SKILLS AND CERTIFICATES 
+   CERTIFICATES: Machine Learning for Finance in Python, Quantitative Risk Management in R 
+   PROGRAMMING SKILLS & TECHNOLOGY EXPERTISE: Python, R, SQL, Bloomberg, FactSet, Tableau, MS Excel 
+ (VBA)/Power BI/PowerPoint/Access/Word 
+   LANGUAGES: Chinese (Mandarin; Native Proficiency), English (Full Professional Proficiency), Spanish 
+

@@ -1,0 +1,65 @@
+
+ LARRY CHEN
+
+ 806 Wellbrook Station Road 
+ Cary, NC 27519 
+
+
+ EDUCATION 
+
+ Duke University 
+ BS in Computer Science & Statistics; Data Science Concentration 
+ Durham, NC 
+ Expected: May 2023 
+   Cumulative GPA: 3.83/4.0; Major GPA: 4.0/4.0 
+
+ Technical Skills: R, Python, SQL, Java, Tableau, Power BI, Advanced Excel, RShiny, GitHub/GitLab, MATLAB 
+ Data Science: Python (Pandas, NumPy, SciPy, scikit-learn), R (ggplot2, dplyr, tidyr, Infer, Leaflet, ggspatial) 
+ Soft Skills: Outstanding Verbal Communicator and Writer, Leadership, Teamwork, Problem-Solving 
+
+ WORK EXPERIENCE 
+ Applied Machine Learning Intern, FatTail May 2020 - August 2020 
+   Created an automated pricing recommendation model with regression analysis using Python and R,   incorporated features from 30,000 ad campaigns such as advertiser, media product, date range, etc. 
+   Developed a web tool to determine an advertiser's industry category by mining data from LinkedIn and   finding the appropriate industry. Data organized in SQL, then input into random forest and multiple linear   regression models that scale across FatTail's client base of ~100,000 advertisers 
+   Visualized all the above in an UX deliverable using RShiny, presented to company executives who plan to   commercialize pricing recommendation model and estimated millions saved in ad marketing in long run 
+
+ Data Science Intern, GreenToGo May 2020 - July 2020 
+   Performed linear and logistic modeling on restaurant data to educate company on profitability of partners 
+   Utilized RStudio and SQLite to analyze restaurant savings from using GreenToGo's reusable takeout boxes,   and created time series of future savings in the next 5 years 
+   Performed explanatory data analysis on check-out/check-in rates, user retention, coupon code effectiveness,   etc., analyzed impact of Covid-19 on consumer usage 
+
+ Data Science/Analytics Assistant Researcher, Duke Dong Lab 
+   Worked alongside a team of 7+ postdoctoral researchers performing data visualizations, and regression   analysis (linear, logistic, random forest, multivariable) for multiple research projects through school semester 
+   Managed large datasets using SQL/Excel and analyzed the data for bioinformatic significance 
+   Performed statistical analysis and hands-on experimentation with statistical modeling of biological processes 
+
+ LEADERSHIP 
+ Data Analyst/Project Manager, 
+ Duke Impact Investing Group Data Division 
+ Jan 2020 - Present 
+   Manage group of 3-4 analysts per semester, directing communicating client-based needs 
+   Utilize data-driven analytics (through RStudio & Jupyter Notebook) to aid social impact clients' business   processes and decision making, analyze statistical metrics for testing client revenue models 
+   Polish data visualizations with the use of Tableau and presented face-to-face with clients through our 
+ Explanatory Data Analysis deliverables 
+
+
+ ADDITIONAL INFORMATION 
+ Awards: 
+ Publications: 
+
+ Interests: 
+ Siemens Science, Math, Tech Competition Semifinalist, Julia Nan Volunteer Scholarship Award 
+ "Effects of PM2.5 and O3 on Human Health at a Suburban Area of Beijing, China" 
+ ML Lead Author Publication: https://www.scirp.org/pdf/JEP_2018072715294032.pdf 
+ Social Impact, Basketball, Longboarding, Exploring Wilderness, Environmental Protection 
+ June 2019 - Feb 2020 
+
+ larry.chen@duke.edu 
+
+ 702-505-3538 
+
+ larry-ch3n 
+
+ larrych3n 
+
+

@@ -1,0 +1,17 @@
+Iris Xia www.irisxia.com 
+
+Education Harvard Graduate School of Design Cambridge, MA | 2018 - 2020 Rhode Island School of Design Providence, RI | 2013 - 2017 Massachusetts Institute of Technology Cambridge, MA | 2019 - 2020 
+
+
+Experience Zingbox Product Designer, Intern Feb - Aug 2018 Mountain View, CA 
+Collaborated closely with stakeholders to ship new features and core user experience enhancements. Coordinated product redesign initiatives including on-boarding flow, dashboard customization, and scalable design system creation based on current customer insights. Kirkland Gallery Curator Aug 2019 - May 2020 Cambridge, MA 
+Planned, curated, and supervised the installation of on-site and digital exhibitions for Harvard University’s only student-run gallery, dedicated to supporting the Harvard Graduate School of Design community and its emerging artists/designers. 
+Casper NEA Design Fellow Jun - Aug 2016 New York, NY 
+Selected as one of seven summer design residents to participate in New Enterprise Associates’ fellowship program. Worked across print, exhibition, and digital design for both internal and external communication. Crafted props for a new product launch photo shoot. 
+Stanford University UI/UX Designer & Researcher Jun - Aug 2015 Stanford, CA 
+Designed mobile application that investigates ambient narratives as effective motivators toward long-term behavior change. Conducted usability tests and collaborated with developers from Stanford HCI for implementation. Published paper awarded Best Paper CHI 2020. 
+Easyway Co. UX Designer & Developer, Intern Jun - Aug 2014 Beijing, China 
+Designed and developed bus ticket booking mobile application. Implemented prototype in JavaScript with Appcelerator Titanium and streamlined app to engineers for backend API integration. 
+
+
+Skills Design — sketching + wireframing, user research + synthesis, user-centered design, prototyping, diagramming, design systems, visual design, illustration, model-making, game design ixia@alumni.risd.edu 650.283.2618 MDes Art, Design, & the Public Domain BFA Industrial Design (Honors) Coursework in Game Design, Video Game Development, Tangible Interfaces, Architecture, and Architectural Theory Software — Adobe Creative Suite, Programming — Python, Arduino, Sketch, InVision, Figma, Java, JavaScript, Processing, Rhinoceros, SolidWorks, Keyshot, HTML/CSS, Flask, C#, SQL Blender, Keynote, Zeplin, Unity 

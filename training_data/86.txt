@@ -1,0 +1,51 @@
+
+ Cong (Jessie) Zhao 
+ 424-402-2672 | cong.zhao.2020@anderson.ucla.edu | https://www.linkedin.com/in/jessiezhaoc/ | https://www.jessiezhao.net 
+
+ EDUCATION 
+
+ UCLA ANDERSON SCHOOL OF MANAGEMENT Los Angeles, CA 
+ M.B.A., Full-Time Program, Technology Management and Marketing Analytics, 750 GMAT June 2020 
+   Leadership: Greater China Business Association (VP of Marketing), Anderson Creative Association (VP of Photography) 
+   Membership: Anderson Tech Business Association, Entrepreneur Association 
+   Workshops: Data Science (Python, R), Machine Learning, Tableau 
+   Consulting Project Competitive analyses and client acquisition strategy for a subscription e-commerce business 
+
+ SOOCHOW UNIVERSITY Suzhou, China 
+ B.A., English June 2010 
+   Leadership: Psychology Club (VP of Marketing Communication), Martial Arts Club (VP of Operation) 
+
+ EXPERIENCE 
+
+ ANAPLAN- a cloud-based EPM SaaS platform for business planning valued over $7B Minneapolis, MN 
+ Internal Consultant (Product Management) Intern June 2019- August 2019 
+   Developed use cases with SMEs, built the product roadmap and owned the product development lifecycle of the first volume   planning product for accounting operation team in 6 weeks with agile methodology, increasing operating efficiency by 300% 
+   Identified operational needs for demand and supply planning, created additional interactive features for the new product to   forecast process hours for proactive planning and automation; expected to save 80 hours and reduce cost by $24K monthly 
+   Developed an automated BI product with multi-layered access control by leading 25+ daily scrum meetings and interviews,   enabling real-time planning, forecasting and decision-making across the enterprise; product adopted by global operation team 
+
+ TECHNOGYM- a high-tech fitness equipment brand valued at $2.4B Shanghai, China 
+ Marketing Specialist April 2015- July 2018 
+   Developed and executed go-to-market strategies for new product introduction-MYRUN including pricing strategy,   merchandise procurement and inventory management, distribution channels, and promotion, increasing B2C sales by 40% 
+   Designed easy-to-access sales toolkits to improve communication between sales and marketing by aggregating marketing   materials into cloud; conducted trainings for 20 sales representatives to guide them to deliver high quality products/solutions 
+   Analyzed 20+ marketing campaigns with data from salesforce, identified success metrics for annual marketing planning,   presented reports to C-suite to achieve buy-in for implementation; optimized and reduced costs by 13% ($140K) 
+   Led a 17-person cross-functional team in organizing 12 trade shows and events in 2017, leveraged social media to drive   attendee engagement before events leading to the acquisition of 200 additional customers YoY and 40% revenue growth 
+   Launched the first Chinese e-commerce pilot store on an accelerated timeline by setting up a 3-person strike team, conducting   competitor analyses, leveraging these insights to drive online/in-store campaigns to generate $200K revenue in the first year 
+   Designed key performance metrics to evaluate vendors, led negotiation of vendor contracts and built strategic vendor   partnership, achieving a 15% decrease in tradeshow construction cost and 50% in product catalog product cost. 
+
+ AVENDEO- a furniture e-commerce platform by $27.7B Haier Group Shanghai, China 
+ Product Marketing Specialist December 2013- April 2015 
+   Identified geographical drivers of historical sales, optimized SEO strategy to target users with similar demographics by   partnering with an external marketing agency increasing CTR by 25% while maintaining a fixed media budget 
+   Utilized consumer research to develop target list for potential partners that could align to brand aesthetic and convinced 58   brands to join platform by visiting and presenting opportunities 
+   Drafted a self-guided instruction manual for SKU uploading by collecting and collating frequently made errors, helped 6   product teams identify data errors and problem-solved during data uploads to shorten product launch lead time by 50% 
+
+ DESIGN DUNCAN MILLER ULLMANN- an American hospitality interior design firm Shanghai, China 
+ Translator/Marketing Assistant February 2012- December 2013 
+   Initiated brochure, branding videos, press releases localization, increasing brand awareness through Weibo and Youku 
+
+ ADDITIONAL 
+
+   Software: Anaplan, Pivot tables, Google Analytics, R, SQL, Salesforce, Python, Tableau, Lucid chart, Jira, Lattice 
+   Certifications: Google Ads Certification, Google Analytics Individual Qualification (GAIQ), Anaplan Level 1 
+   Volunteer Work: Riordan Scholars Mentor, Junior Achievement, Twin Cities Habitat for Humanity, LA Food Bank 
+   Interests: Data-science, Aikido, Photography, Favorite film - The Pursuit of Happyness 
+

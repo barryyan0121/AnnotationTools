@@ -1,0 +1,31 @@
+
+ Zefeng (Andrew) Yan 
+ Yorba Linda, CA,92887 | andrewyan@brandeis.edu | (309) 868-0691 | linkedin.com/in/zefengyan 
+ Education 
+ New York University - Brooklyn, NY anticipated completion May 2022 
+ -Incoming M.S in computer science 
+ Brandeis University - Waltham, MA Jan 2017 - May 2020 
+ - B. S in applied mathematics and computer science, Magna Cum Laude, GPA: 3.845 
+ Skills 
+   Experience in Python, Java, Ruby, SQL, MATLAB, and R. 
+   Well versed in Microsoft Office. 
+   A passion for problem-solving analysis and decision making based on data. 
+ Relevant Experience 
+ Web Application Developer https://github.com/ditsky/team-formation-app Jan 2020 - May 2020 
+ - Developed a full-stack MVC-structured website to facilitate team formation process to match students   into teams and assign optimized projects. 
+ - Implemented a matching algorithm that considers students' interests and their schedule availability 
+ - Technology used: Heroku | Ruby on rails | AJAX | CSS | Action Cable 
+ Information Technology Management Intern Xinshifang Real Estate Appraisal, LLC summer 2018 
+ - Collaborating with technicians to ensure normal operations of hardware and software on 40 Windows PCs. 
+ - Acted as a safety-net and performed troubleshooting on computer hardware such as ordering and replacing   any potential malfunctioned parts. 
+ University Experience & Activities 
+ Director of Financial Operation Brandeis Mountain Club Sept 2018- May 2020 
+ - Managing $ 65k of club funding each semester, supporting and monitoring all funds and transactions, and   collaborating with University to support on-campus events. (e.g., Camp in Library and Kindness Day) 
+ - Acted as trip leaders to lead and oversee weekly overnight backpacking and skiing trips. 
+ Undergraduate Department Representative Brandeis Mathematics Department May 2019 - 2020 
+ - Acted as liaison between undergraduate study body and faculties to facilitate discussion, explore the demand   gap of potential classes in the future, and report feedbacks on new courses. 
+ - Organized Pi day celebration, alumni panel night, and coffee events to promote student-faculty involvement   within the department. 
+ Math Tutor and Grader Brandeis University Mathematics Department Jan 2018 - May 2019 
+ - Graded homework & provided feedback and assistance for students studying Calculus. 
+ - Collaborated with Professor on course improvement and designing assignments. 
+
