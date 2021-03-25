@@ -1,10 +1,11 @@
 import os
+import re
 from tkinter import *
 from utility.io_utils import read_pdf_and_docx
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-line_labels = {0: 'experience', 1: 'skills', 2: 'education', 3: 'project', 4: 'others'}
+line_labels = {0: 'experience', 1: 'skills', 2: 'education', 3: 'project', 4: 'others', 5: 'language'}
 
 
 class AnnotatorGui(Frame):
@@ -55,6 +56,7 @@ class AnnotatorGui(Frame):
             content = _line_content_text.get(SEL_FIRST, SEL_LAST)
             _, label = table_content[_line_index][-1]
             table_content[_line_index][-1] = (content, label)
+            table_content[_line_index].append(('', label))
 
         line_label_button = Button(self.master, text="Type: Unlabeled", width=20,
                                    command=lambda: line_label_button_click(line_index))
@@ -107,21 +109,24 @@ def gui_annotate(training_data_dir_path, index, file_content):
 
 def rename_files(data_dir_path):
     files = os.listdir(data_dir_path)
+    pattern = '^(([0-9]|[1-9][0-9]|[1][0-9][0-9]|20[0-0]).txt)$'
     for count, filename in enumerate(files):
-        src = data_dir_path + '/' + filename
-        dst = data_dir_path + '/' + str(count) + ".txt"
-        os.rename(src, dst)
+        if re.search(pattern, filename) is None:
+            src = data_dir_path + '/' + filename
+            dst = data_dir_path + '/' + str(count) + ".txt"
+            os.rename(src, dst)
 
 
 def main():
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir != '' else '.'
-
     data_dir_path = current_dir + '/training_data'  # directory to scan for any pdf files
-    # rename_files(data_dir_path)
-    training_data_dir_path = current_dir + '/annotated_data'
+
+    rename_files(data_dir_path)
+
+    annotated_data_dir_path = current_dir + '/annotated_data'
     collected = read_pdf_and_docx(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
-        gui_annotate(training_data_dir_path, index, file_content)
+        gui_annotate(annotated_data_dir_path, index, file_content)
     })
     print('count: ', len(collected))
 
