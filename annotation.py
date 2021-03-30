@@ -1,5 +1,4 @@
 import os
-import re
 from tkinter import *
 from utility.io_utils import read_pdf_and_docx
 
@@ -67,7 +66,7 @@ class AnnotatorGui(Frame):
         self.master.create_window(1350, line_index * 35, height=40, width=150, window=line_selection_button)
 
 
-def gui_annotate(training_data_dir_path, index, file_content):
+def gui_annotate(training_data_dir_path, name, file_content):
     root = Tk()
     root.columnconfigure(0, weight=1)
     root.rowconfigure(0, weight=1)
@@ -86,7 +85,7 @@ def gui_annotate(training_data_dir_path, index, file_content):
 
     def callback():
         root.destroy()
-        output_file_path = os.path.join(training_data_dir_path, str(index) + '.csv')
+        output_file_path = os.path.join(training_data_dir_path, name)
         with open(output_file_path, 'wt', encoding='utf8') as f:
             print("Annotated Data")
             for key in table_content:
@@ -122,11 +121,11 @@ def main():
     current_dir = current_dir if current_dir != '' else '.'
     data_dir_path = current_dir + '/training_data'  # directory to scan for any pdf files
 
-    rename_files(data_dir_path)
+    # rename_files(data_dir_path)
 
     annotated_data_dir_path = current_dir + '/annotated_data'
-    collected = read_pdf_and_docx(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
-        gui_annotate(annotated_data_dir_path, index, file_content)
+    collected = read_pdf_and_docx(data_dir_path, annotated_data_dir_path, command_logging=True, callback=lambda name, file_path, file_content: {
+        gui_annotate(annotated_data_dir_path, name, file_content)
     })
     print('count: ', len(collected))
 
