@@ -7,7 +7,7 @@ from spacy.training import Example
 from pathlib import Path
 
 epochs = 30
-nlp = spacy.blank("en")
+# nlp = spacy.blank("en")
 nlp = spacy.load('en_core_web_sm')
 LABEL = "SKILL"
 optimizer = nlp.resume_training()
